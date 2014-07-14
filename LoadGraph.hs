@@ -2,7 +2,7 @@ module LoadGraph
 	( loadFile,
 	 splitString,
 	 transformToTripla,
-	 finalTuple,
+	 convertLastToInt,
 	 finalGraph
 	) where
 
@@ -17,7 +17,6 @@ loadFile filename = do
 
 
 
-
 splitString :: [String] ->[[String]]
 splitString xs =[ splitOn "|" a |  a <- xs]
 
@@ -28,12 +27,12 @@ transformToTripla y= [(a,b,c) | [a,b,c] <- y]
 
 
 
-finalTuple :: [(String,String,String)] -> [(String,String,Int)]
-finalTuple z= [(a,b, read c :: Int) | (a,b,c) <- z]
+convertLastToInt :: [(String,String,String)] -> [(String,String,Int)]
+convertLastToInt z= [(a,b, read c :: Int) | (a,b,c) <- z]
 
 
 -- Se envia como parametro la lista de lineas del archivo y devolverá una lista de triplas
 finalGraph :: [String] -> [(String,String,Int)]
-finalGraph a =  finalTuple (transformToTripla (splitString a))
+finalGraph a =  convertLastToInt (transformToTripla (splitString a))
 
 

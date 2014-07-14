@@ -1,1 +1,510 @@
 Santa Ana|Philadelphia|257
+Austin|Houston|165
+Seattle|Portland|129
+Baltimore|Norfolk|204
+Chicago|Indianapolis|164
+Dallas|Austin|159
+Houston|San Antonio|159
+Dallas|Oklahoma City|153
+San Jose|Reno|149
+Orlando|Miami|137
+Providence|New York City|201
+Pittsburgh|Washington|169
+Corpus Christi|Houston|155
+Dallas|San Antonio|153
+Dallas|Houston|152
+Atlanta|Charlotte|151
+Dallas|Tulsa|151
+Chicago|Detroit|146
+Fort Lauderdale|Tampa|144
+St. Louis|Kansas City|136
+Seattle|Spokane|131
+Las Vegas|Los Angeles|123
+Newburgh/Poughkeepsie|Syracuse|118
+Chicago|Cincinnati|339
+Pittsburgh|Philadelphia|251
+Providence|Philadelphia|250
+Washington|Syracuse|233
+Baltimore|New York City|221
+Buffalo|Philadelphia|210
+Baltimore|Raleigh/Durham|196
+Minneapolis|Milwaukee|165
+Chicago|Columbus|160
+Atlanta|Pensacola|158
+Washington|Rochester|158
+Newburgh/Poughkeepsie|Portland|157
+Chicago|St. Louis|154
+Chicago|Louisville|152
+Atlanta|Jacksonville|151
+Houston|Harlingen/San Benito|147
+Buffalo|Washington|145
+Dallas|Lubbock|135
+Burlington|New York City|132
+Boise|Spokane|129
+Newburgh/Poughkeepsie|Rochester|124
+Las Vegas|San Diego|114
+Spokane|Portland|110
+Fresno|Las Vegas|109
+Phoenix|Las Vegas|109
+Atlanta|Louisville|316
+Newburgh/Poughkeepsie|Richmond|275
+Nashville|Charlotte|244
+Charlotte|Columbus|231
+Charlotte|Jacksonville|228
+New York|Norfolk|228
+Providence|Rochester|226
+Atlanta|Greensboro/High Point|197
+Cleveland|Washington|193
+Hartford|Washington|184
+Washington|Columbus|177
+Atlanta|Memphis|171
+Cleveland|Chicago|170
+Houston|New Orleans|169
+Dallas|Midland/Odessa|156
+Jacksonville|Miami|153
+Albany|Washington|151
+Chicago|Minneapolis/St. Paul|149
+Albuquerque|Phoenix|144
+Philadelphia|Raleigh/Durham|142
+St. Louis|Milwaukee|142
+Austin|Lubbock|141
+Phoenix|El Paso|140
+St. Louis|Omaha|137
+Nashville|Columbus|137
+Albuquerque|Denver|134
+Buffalo|New York City|133
+Las Vegas|Reno|132
+Dallas|Little Rock|130
+Dallas|Amarillo|126
+Phoenix|San Diego|125
+Boise|Portland|119
+Cleveland|Philadelphia|330
+Minneapolis|Kansas City|315
+Atlanta|Cincinnati|245
+Pittsburgh|Charlotte|233
+Dallas/Fort Worth|Baton Rouge|200
+Washington|Charlotte|186
+Pittsburgh|New York City|178
+Dallas|Corpus Christi|177
+Cleveland|Milwaukee|171
+Greensboro/High Point|Philadelphia|162
+Houston|Little Rock|150
+Atlanta|Raleigh/Durham|145
+Los Angeles|Santa Rosa|142
+Las Vegas|Sacramento|141
+Houston|Jackson/Vicksburg|139
+Seattle|Boise|134
+San Jose|Los Angeles|134
+Tucson|San Diego|133
+Phoenix|Los Angeles|133
+Providence|Buffalo|131
+Las Vegas|Salt Lake City|126
+Denver|Salt Lake City|121
+Tucson|Las Vegas|116
+Las Vegas|Stockton|84
+Dallas/Fort Worth|Memphis|399
+Washington|Columbia|324
+Washington|Cincinnati|280
+Cleveland|Charlotte|266
+Columbus|Philadelphia|264
+Charlotte|Philadelphia|261
+Burlington|Washington|246
+Austin|New Orleans|239
+Charlotte|Indianapolis|209
+Houston|Oklahoma City|200
+Houston|Midland/Odessa|191
+Washington|Detroit|185
+Pittsburgh|Chicago|175
+Chicago|Kansas City|174
+St. Louis|Minneapolis/St. Paul|171
+Dallas|New Orleans|170
+Baltimore|Greenville/Spartanburg|169
+Atlanta|Columbus|167
+St. Louis|Detroit|165
+Atlanta|Indianapolis|164
+Chicago|Omaha|163
+Atlanta|Tampa|163
+Atlanta|New Orleans|160
+Nashville|Chicago|159
+Cleveland|Nashville|158
+San Francisco|Palm Springs|155
+Washington|Dayton|155
+Atlanta|Orlando|154
+Columbus|St. Louis|151
+Atlanta|Dayton|150
+Nashville|Raleigh/Durham|149
+Providence|Washington|148
+Denver|Wichita|147
+Santa Ana|Reno|146
+Nashville|Panama City|145
+Atlanta|Sarasota/Bradenton|141
+San Jose|San Diego|141
+Santa Ana|Sacramento|140
+Las Vegas|San Francisco|132
+Kansas City|Milwaukee|132
+Reno|Salt Lake City|120
+Portland|Reno|118
+Washington|Knoxville|376
+Detroit|Philadelphia|310
+Chicago|Memphis|296
+Charlotte|Detroit|257
+Chicago|Knoxville|250
+San Antonio|New Orleans|227
+Indianapolis|Raleigh/Durham|221
+Newburgh/Poughkeepsie|Greensboro/High Point|217
+Baltimore|Charleston|211
+Cleveland|New York City|210
+Dallas|Harlingen/San Benito|210
+Dallas/Fort Worth|Mission/McAllen/Edinburg|209
+Houston|Tulsa|202
+Providence|Norfolk|202
+Houston|Lubbock|193
+Nashville|Detroit|184
+Washington|Louisville|183
+Buffalo|Chicago|177
+New York|Raleigh/Durham|174
+Eugene|San Francisco|173
+Albuquerque|Salt Lake City|167
+St. Louis|Oklahoma City|166
+Providence|Richmond|163
+Washington|Portland|163
+Atlanta|St. Louis|161
+Dallas|Kansas City|159
+Tampa|New Orleans|158
+Atlanta|Richmond|157
+Minneapolis|Lansing|157
+Nashville|New Orleans|156
+Indianapolis|Kansas City|154
+Nashville|Kansas City|152
+Pittsburgh|Boston|152
+Sacramento|San Diego|149
+Birmingham|Tampa|148
+San Diego|Reno|147
+Tucson|Los Angeles|146
+El Paso|San Antonio|146
+Birmingham|Orlando|146
+Denver|Sioux Falls|145
+Albuquerque|Las Vegas|139
+Nashville|Jacksonville|136
+Charlotte|Orlando|134
+Sacramento|Portland|133
+Denver|Oklahoma City|120
+Denver|Omaha|120
+Atlantic City|Myrtle Beach|91
+Cincinnati|Philadelphia|325
+Minneapolis|Indianapolis|304
+Detroit|Minneapolis/St. Paul|302
+Hartford|Detroit|277
+Charlotte|Memphis|274
+Washington|Savannah|263
+Detroit|Raleigh/Durham|255
+Columbus|New York City|243
+Amarillo|Houston|237
+Hartford|Raleigh/Durham|234
+Sacramento|Salt Lake City|232
+Charlotte|Tampa|228
+Detroit|New York City|225
+Washington|Indianapolis|216
+Charleston|Philadelphia|215
+Boise|San Francisco|215
+Buffalo|Charlotte|212
+Atlanta|Norfolk|210
+Dallas|St. Louis|194
+Atlanta|Fort Myers|184
+Phoenix|Salt Lake City|179
+Boise|Las Vegas|178
+Jacksonville|Norfolk|177
+Denver|Tulsa|176
+Austin|El Paso|175
+Orlando|Raleigh/Durham|168
+Pittsburgh|Atlanta|168
+Asheville|Chicago|160
+Huntsville|Orlando|155
+Washington|Grand Rapids|148
+Denver|Kansas City|145
+Orlando|Knoxville|138
+Atlanta|West Palm Beach/Palm Beach|134
+Minneapolis|Cincinnati|368
+Chicago|Harrisburg|299
+Chicago|Tulsa|265
+Dallas|Omaha|246
+Indianapolis|Philadelphia|246
+Chicago|Charlotte|241
+Nashville|Washington|239
+Chicago|Little Rock|234
+Charlotte|St. Louis|229
+Birmingham|Houston|228
+Cleveland|Boston|225
+Charlotte|West Palm Beach/Palm Beach|216
+Dallas|Birmingham|214
+Charlotte|Fort Myers|212
+San Jose|Salt Lake City|212
+Dayton|New York City|211
+Albuquerque|Dallas/Fort Worth|204
+Birmingham|Chicago|204
+Atlanta|Detroit|201
+Atlanta|Cleveland|194
+Dallas|El Paso|192
+El Paso|Las Vegas|191
+Chicago|Greenville/Spartanburg|191
+Orlando|New Orleans|181
+San Jose|Portland|174
+Charlotte|New York City|173
+Orlando|Jackson/Vicksburg|172
+Atlanta|Washington|164
+Denver|Des Moines|163
+Nashville|Norfolk|161
+Seattle|Reno|160
+Santa Ana|Salt Lake City|157
+Tampa|Raleigh/Durham|155
+Atlanta|Miami|129
+Colorado Springs|Phoenix|109
+Newburgh/Poughkeepsie|Cincinnati|357
+Providence|Detroit|304
+New York|Grand Rapids|296
+Detroit|Kansas City|296
+Columbus|Minneapolis/St. Paul|295
+Chicago|Richmond|295
+Providence|Columbus|262
+Atlanta|Grand Rapids|259
+Dallas/Fort Worth|Valparaiso|242
+Hartford|Charlotte|240
+Dallas|Nashville|231
+New York|Greenville/Spartanburg|229
+Charlotte|Syracuse|226
+Huntsville|Washington|225
+Charlotte|Miami|224
+St. Louis|New Orleans|223
+Washington|Chicago|219
+Chicago|Raleigh/Durham|218
+Asheville|New York City|215
+Philadelphia|Savannah|214
+Colorado Springs|Dallas/Fort Worth|209
+Nashville|Orlando|198
+San Diego|Salt Lake City|197
+Nashville|Tampa|195
+Albuquerque|Austin|193
+Phoenix|Sacramento|184
+Denver|Boise|183
+Portland|Salt Lake City|179
+Austin|Kansas City|177
+Albuquerque|San Diego|175
+Seattle|Sacramento|173
+Providence|Raleigh/Durham|170
+Atlanta|Chicago|165
+Phoenix|Reno|159
+Denver|Tucson|154
+Atlanta|Flint|154
+Baltimore|Milwaukee|153
+Denver|Phoenix|145
+Denver|Las Vegas|134
+Myrtle Beach|New York City|128
+Myrtle Beach|Detroit|120
+Colorado Springs|Las Vegas|113
+Cleveland|Minneapolis/St. Paul|290
+Nashville|Minneapolis/St. Paul|289
+New York|Louisville|276
+Chicago|Oklahoma City|255
+Newburgh/Poughkeepsie|Knoxville|248
+Nashville|Houston|237
+Charleston|New York City|236
+Orlando|Memphis|236
+St. Louis|Houston|235
+Milwaukee|Philadelphia|232
+Chicago|Philadelphia|226
+El Paso|Houston|225
+Tampa|Memphis|220
+Charlotte|New Orleans|216
+Houston|Kansas City|214
+Baltimore|Jacksonville|211
+Boise|Los Angeles|208
+Birmingham|Washington|207
+Chicago|Jackson/Vicksburg|207
+Nashville|Philadelphia|207
+Charlotte|Milwaukee|203
+Fort Lauderdale|New Orleans|201
+Kansas City|New Orleans|195
+Albuquerque|Los Angeles|194
+Atlanta|Houston|192
+Pittsburgh|Jacksonville|190
+St. Louis|Raleigh/Durham|189
+Atlanta|Kansas City|189
+Seattle|Salt Lake City|183
+Atlanta|Philadelphia|183
+Dallas|Denver|176
+Orlando|Norfolk|166
+Seattle|San Francisco|163
+Atlanta|Milwaukee|163
+Phoenix|San Francisco|160
+Santa Ana|Medford|148
+Orlando|Richmond|147
+Fort Lauderdale|Raleigh/Durham|145
+Denver|Minneapolis/St. Paul|143
+Orlando|Lexington|137
+Pittsburgh|Minneapolis/St. Paul|287
+New York|Indianapolis|264
+Cleveland|Kansas City|263
+Austin|St. Louis|260
+Dallas|Louisville|260
+Washington|St. Louis|243
+Albany|Chicago|243
+Dallas|Atlanta|239
+Providence|Dayton|234
+Chicago|Norfolk|232
+Jacksonville|Philadelphia|212
+El Paso|Los Angeles|201
+Orlando|Louisville|199
+Washington|Madison|198
+Spokane|San Francisco|194
+Phoenix|Boise|192
+Seattle|Fresno|191
+Tampa|Norfolk|182
+Kansas City|San Antonio|180
+Louisville|Tampa|180
+Greensboro/High Point|Miami|175
+Atlanta|Rochester|171
+Atlanta|Buffalo|168
+Providence|Charlotte|167
+Las Vegas|Pasco/Kennewick/Richland|120
+Atlanta|Oklahoma City|320
+Chicago|Savannah|284
+Hartford|Chicago|274
+Providence|Cincinnati|271
+Washington|Memphis|265
+Dallas|Indianapolis|264
+Newburgh/Poughkeepsie|Savannah|263
+Houston|Tampa|239
+Chicago|Charleston|228
+Albuquerque|Houston|226
+Tucson|San Francisco|224
+St. Louis|San Antonio|222
+New Orleans|Raleigh/Durham|209
+Atlanta|New York City|204
+Austin|Nashville|202
+Chicago|New York City|196
+Pittsburgh|Kansas City|194
+Washington|Panama City|186
+Cincinnati|Tampa|186
+New York|Milwaukee|182
+Orlando|Cincinnati|178
+Denver|St. Louis|164
+Denver|Little Rock|162
+Atlanta|Wichita|159
+Washington|Orlando|158
+Denver|Austin|153
+Denver|San Antonio|151
+Eugene|Los Angeles|148
+Providence|Myrtle Beach|143
+Las Vegas|Portland|131
+Chicago|Myrtle Beach|125
+Bellingham|San Francisco|122
+Dallas/Fort Worth|Cincinnati|361
+Houston|Louisville|311
+Providence|Louisville|280
+Providence|Indianapolis|280
+Atlanta|Omaha|276
+Houston|Omaha|275
+New York|Madison|271
+Providence|Charleston|264
+Chicago|New Orleans|261
+Jacksonville|Houston|253
+Dallas|Tucson|241
+Jacksonville|Detroit|239
+Nashville|New York City|235
+Washington|Valparaiso|235
+Dallas|Chicago|229
+Washington|Pensacola|226
+Nashville|Miami|224
+Phoenix|Oklahoma City|214
+Charlotte|Kansas City|213
+Phoenix|San Antonio|210
+Atlanta|Austin|209
+Fort Lauderdale|Norfolk|208
+St. Louis|Philadelphia|205
+Colorado Springs|Los Angeles|201
+Nashville|San Antonio|193
+Denver|Madison|190
+Denver|Reno|189
+Washington|Tampa|184
+Spokane|Las Vegas|184
+Miami|Richmond|176
+Columbus|Tampa|166
+Pittsburgh|Orlando|163
+Dayton|Tampa|161
+Orlando|Indianapolis|160
+Indianapolis|Tampa|159
+Dayton|Orlando|155
+Columbus|Orlando|154
+Denver|Spokane|151
+Great Falls|Las Vegas|116
+Atlanta|Hartford|301
+Memphis|Philadelphia|298
+Albany|Atlanta|287
+Houston|Cincinnati|283
+Houston|Indianapolis|282
+Dallas/Fort Worth|Dayton|270
+Dallas|Minneapolis/St. Paul|262
+Dallas|Greenville/Spartanburg|262
+Dallas|Milwaukee|247
+Miami|Memphis|236
+Hartford|Nashville|230
+Houston|Orlando|225
+Washington|Jackson/Vicksburg|219
+Fort Myers|Cincinnati|216
+Austin|Phoenix|209
+Chicago|Jacksonville|205
+Dallas|Phoenix|205
+Denver|Houston|205
+Jacksonville|New York City|202
+Albuquerque|San Francisco|200
+St. Louis|Tampa|190
+Providence|Milwaukee|188
+Washington|West Palm Beach/Palm Beach|184
+Cleveland|Orlando|182
+Providence|Chicago|176
+Atlanta|San Antonio|175
+Washington|Sarasota/Bradenton|173
+St. Louis|Orlando|171
+Denver|Chicago|170
+Pittsburgh|Tampa|168
+Denver|Los Angeles|164
+Seattle|Las Vegas|162
+Santa Ana|Portland|160
+Denver|San Diego|160
+Orlando|Philadelphia|153
+Denver|Milwaukee|147
+Orlando|Harrisburg|144
+Santa Ana|Pasco/Kennewick/Richland|137
+Atlantic City|Orlando|101
+Charlotte|Houston|358
+Charlotte|Minneapolis/St. Paul|309
+Dallas/Fort Worth|Charlotte|297
+Chicago|Houston|272
+Washington|Minneapolis/St. Paul|270
+Nashville|Boston|264
+Providence|Savannah|256
+Dallas|Jacksonville|255
+Charleston|Houston|252
+Dallas|Columbus|249
+Detroit|New Orleans|247
+Kansas City|Salt Lake City|242
+Fort Lauderdale|Louisville|242
+Dallas|Tampa|235
+Atlanta|Minneapolis/St. Paul|234
+Miami|Cincinnati|234
+Washington|Des Moines|228
+St. Louis|New York City|228
+Kansas City|Raleigh/Durham|226
+Phoenix|Tulsa|225
+Birmingham|New York City|224
+Austin|Tampa|219
+Pittsburgh|New Orleans|207
+Washington|Little Rock|206
+Cleveland|Tampa|195
+Washington|Fort Myers|194
+Fort Myers|Indianapolis|194
+Tampa|Philadelphia|188
+San Diego|Portland|181
+Columbus|Fort Myers|179
+Denver|Santa Barbara|179
+Denver|Sacramento|178
