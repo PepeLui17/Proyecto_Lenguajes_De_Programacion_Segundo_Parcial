@@ -5,7 +5,8 @@ main = do
 		putStrLn "--------------- SISTEMA DE BUSQUEDA DE VUELOS ---------------"
 		putStrLn "Ingrese parametro de busqueda (Costo o Distancia):"
 		param <- getLine
-		archivo <- loadFile "input.txt"
+		--archivo <- loadFile "input.txt"
+		archivo <- loadFile "vuelos_distancia"
 		let g= finalGraph archivo
 		putStrLn "Ingrese ciudad de origen"
 		origen <- getLine
