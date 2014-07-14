@@ -1,0 +1,10 @@
+Nashville|Charlotte|328
+Cleveland|Washington|314
+Atlanta|Greensboro/High Point|306
+Chicago|Des Moines|306
+Charlotte|New Orleans|305
+Houston|New Orleans|305
+Charlotte|Memphis|332
+Atlanta|Memphis|332
+Atlanta|Charlotte|332
+Hartford|Washington|326
