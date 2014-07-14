@@ -1,5 +1,12 @@
-{-# LANGUAGE NoMonomorphismRestriction #-} 
-import qualified Data.Heap as Heap 
+module Dijkstra
+	( dijkstra,
+	 shortestPath,
+	 transformGraph,
+	 gtest
+	) where
+
+
+import qualified Heap as Heap 
 import qualified Data.Map as Map 
 import Data.Maybe (fromJust, fromMaybe, maybe) 
  
@@ -47,13 +54,13 @@ gtest = [(a, b, 1)
         ,(f, g, 1) 
         ,(g, h, 1) 
         ] 
-        where a = "A" 
-              b = "B" 
-              c = "C" 
-              d = "D" 
-              e = "E" 
-              f = "F" 
-              g = "G" 
-              h = "H" 
+        where a = "Ambato" 
+              b = "Babahoyo" 
+              c = "Cuenca" 
+              d = "Daule" 
+              e = "El Empalme" 
+              f = "Francia" 
+              g = "Guayaquil" 
+              h = "Huaquillas" 
  
-test = shortestPath (dijkstra "A" $ transformGraph gtest) "F" 
+test = shortestPath (dijkstra "Ambato" $ transformGraph gtest) "Francia" 
