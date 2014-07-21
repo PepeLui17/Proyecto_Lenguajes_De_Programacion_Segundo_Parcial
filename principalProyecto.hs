@@ -17,7 +17,7 @@ main = do
 			let result = shortestPath (dijkstra destino $ transformGraph g) origen
 			let rutas = obtainRoutesWithWeight (convertSolutionToTuples result) g
 			
-			if (length result) == ((length rutas) + 1)
+			if (length result) == ((length rutas) + 1) && (length rutas) /= 0
 				then do
 				putStrLn "\nRuta mas corta:"
 				print rutas
@@ -41,7 +41,7 @@ main = do
 				let result = shortestPath (dijkstra destino $ transformGraph g) origen
 				let rutas = obtainRoutesWithWeight (convertSolutionToTuples result) g
 			
-				if (length result) == ((length rutas) + 1)
+				if (length result) == ((length rutas) + 1) && (length rutas) /= 0
 					then do
 					putStrLn "\nRuta mas corta:"
 					print rutas
