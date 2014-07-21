@@ -1,11 +1,9 @@
 import Dijkstra
 import LoadGraph
+import Peso
 
 -- Main principal del programa
-
 main = do
-	--foo <- putStrLn "--------------- SISTEMA DE BUSQUEDA DE VUELOS ---------------"
-	--putStr "Ingrese factor de busqueda (Costo o Distancia):\n"
     factor <- getLine
     if factor == "Costo"
         then do
@@ -13,13 +11,24 @@ main = do
 			archivo <- loadFile "vuelos_costo.txt"
 			let g= finalGraph archivo
 			putStrLn "Ingrese ciudad de origen:"
-			origen <- getLine
+			origen <- getLine 
 			putStrLn "Ingrese ciudad destino:"
 			destino <- getLine
-			let resultado = shortestPath (dijkstra destino $ transformGraph g) origen
-			putStrLn "\nRuta mas corta:\n"
-			print resultado
-			return ()
+			let result = shortestPath (dijkstra destino $ transformGraph g) origen
+			let rutas = obtainRoutesWithWeight (convertSolutionToTuples result) g
+			
+			if (length result) == ((length rutas) + 1)
+				then do
+				putStrLn "\nRuta mas corta:"
+				print rutas
+				putStrLn "\nCosto total:"
+				print (pesoTotal rutas)				
+				return ()
+			else do
+				putStrLn "\nNo existe ruta posible\n"
+				return ()
+				
+			
         else if factor == "Distancia"
 			then do
 				putStrLn "\n--------------- SISTEMA DE BUSQUEDA DE VUELOS CON DISTANCIA MAS CORTA---------------\n"
@@ -29,12 +38,21 @@ main = do
 				origen <- getLine
 				putStrLn "Ingrese ciudad destino:"
 				destino <- getLine
-				let resultado = shortestPath (dijkstra destino $ transformGraph g) origen
-				putStrLn "\nRuta mas corta:\n"
-				print resultado
-				return ()
+				let result = shortestPath (dijkstra destino $ transformGraph g) origen
+				let rutas = obtainRoutesWithWeight (convertSolutionToTuples result) g
+			
+				if (length result) == ((length rutas) + 1)
+					then do
+					putStrLn "\nRuta mas corta:"
+					print rutas
+					putStrLn "\nDistancia total:"
+					print (pesoTotal rutas)				
+					return ()
+				else do
+					putStrLn "\nNo existe ruta posible\n"
+					return ()
 			else do
-				putStrLn "Parametro No valido, vuelva a ingresar parametro\n\n"
+				putStrLn "Parametro No valido, vuelva a ingresar factor (Costo o Distancia)\n\n"
 				main
 
 				
